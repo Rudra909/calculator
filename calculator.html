@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>calculator</title>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="calculator.css">
+<div class="cal"><br>
+<form name="math">
+<input type="text" name="calculator" class="calculator"><br><br><br>
+<input type="button" name="a" class="a" value="(" onclick="math.calculator.value+='('">
+<input type="button" name="b" class="b" value=")" onclick="math.calculator.value+=')'">
+<input type="button" name="c" class="c" value="%" onclick="math.calculator.value+='%'">
+<input type="button" name="d" class="d" value="$" onclick="math.calculator.value+='$'">
+<br><br>
+<input type="button" name="e" class="e" value="9" onclick="math.calculator.value+='9'">
+<input type="button" name="f" class="f" value="8" onclick="math.calculator.value+='8'">
+<input type="button" name="g" class="g" value="7" onclick="math.calculator.value+='7'">
+<input type="button" name="h" class="h" value="+" onclick="math.calculator.value+='+'">
+<br><br>
+<input type="button" name="i" class="j" value="6" onclick="math.calculator.value+='6'">
+<input type="button" name="j" class="j" value="5" onclick="math.calculator.value+='5'">
+<input type="button" name="k" class="k" value="4" onclick="math.calculator.value+='4'">
+<input type="button" name="l" class="l" value="-" onclick="math.calculator.value+='-'">
+<br><br>
+<input type="button" name="m" class="m" value="3" onclick="math.calculator.value+='3'">
+<input type="button" name="n" class="n" value="2" onclick="math.calculator.value+='2'">
+<input type="button" name="o" class="o" value="1" onclick="math.calculator.value+='1'">
+<input type="button" name="p" class="p" value="*" onclick="math.calculator.value+='*'">
+<br><br>
+<input type="button" name="q" class="q" value="0" onclick="math.calculator.value+='0'">
+<input type="button" name="r" class="r" value="/" onclick="math.calculator.value+='/'">
+<input type="button" name="s" class="s" value="*" onclick="math.calculator.value+='*'">
+<input type="button" name="t" class="t" value="=" onclick="math.calculator.value=eval(math.calculator.value)">
+</form>
+</div>
+</body>

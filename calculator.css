@@ -1,0 +1,223 @@
+body{
+	background :url(bg9.jpg) no-repeat center;
+}
+.calculator{
+	background-color:skyblue;
+	height:80px;
+	width:275px;
+	border-radius:15px;
+	margin-top:15px;
+	margin-left:13px;
+	padding-left:10px;
+	font-weight:bold;
+	font-size:20px;	
+}
+.cal{
+	background-color:purple;
+	height:500px;
+	width:300px;
+	border-radius:25px;
+	border:bold 25px;;
+	margin-left:625px;
+	margin-top:125px;
+}
+.a{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:23px;
+	font-weight:bold;
+	font-size:27px;
+}
+.b{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.c{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.d{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.e{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:23px;
+	font-weight:bold;
+	font-size:27px;
+}
+.f{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.g{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.h{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.i{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.j{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:20px;
+	font-weight:bold;
+	font-size:27px;
+}
+.k{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.l{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.m{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:22px;
+	font-weight:bold;
+	font-size:27px;
+}
+.n{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.o{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.p{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.q{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:23px;
+	font-weight:bold;
+	font-size:27px;
+}
+.r{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.s{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
+.t{
+	background-color:yellow;
+	height:50px;
+	width:50px;
+	border-radius:10px;
+	border-color:white;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:27px;
+}
